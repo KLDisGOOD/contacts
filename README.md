@@ -76,5 +76,5 @@ This is a simple Django REST API for managing emergency contacts.
 
 ## Deployment
 
-This project is deployed on Render. You can access the deployed API at: [Render App Link](vercel.app/api/contacts/)
+This project is deployed on Render. You can access the deployed API at: [Render App Link](https://contacts-ec0k.onrender.com)
 
