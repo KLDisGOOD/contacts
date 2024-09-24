@@ -14,8 +14,8 @@ This is a simple Django REST API for managing emergency contacts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/kldisgood/task
-   cd task
+   git clone https://github.com/kldisgood/contacts
+   cd contacts
    ```
 
 
